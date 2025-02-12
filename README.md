@@ -1,6 +1,6 @@
-Hey, I'm Gokul !<br><br> 🎓 IT Graduate from SRM University<br><br>🚀 Python / Java Programmer | SQL Developer | Machine Learning enthusiast | JavaScript Dev | Data Analyzer<br><br>📍 Right now, I'm focusing on Learning Java and expanding my knowledge in the exciting fields of AI, Deep Learning, LAM.<br><br>📈 Working on Myself to be Full-Stack Dev / Machine Learning Engineer / Data Scientist !<br><br>🔍 I'm actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers.<br><br>To reach me : Mail - gokulraja840@gmail.com
+Hey, I'm Gokul !<br><br> 🎓 CSE Graduate from Mailam Engineering College<br><br>🚀 Python / Java Programmer | SQL Developer | Machine Learning enthusiast | JavaScript Dev | Data Analyzer<br><br>📍 Right now, I'm focusing on Learning Java and expanding my knowledge in the exciting fields of AI, Deep Learning, Cloud Computing.<br><br>📈 Working on Myself to be Full-Stack Dev / Machine Learning Engineer / Data Scientist !<br><br>🔍 I'm actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers.<br><br>To reach me : Mail - gokulakannanmeccse@gmail.com
 
- <img align="center" alt="GIF" src="https://github.com/Gokul-Raja84/Gokul-Raja84/blob/main/dev%20code.gif?raw=true" width="300" height="300" />
+ <img align="center" alt="GIF" src="https://github.com/Gokul-45/Gokul-45/blob/main/dev%20code.gif?raw=true" width="300" height="300" />
 
 
 
@@ -16,10 +16,10 @@ Hey, I'm Gokul !<br><br> 🎓 IT Graduate from SRM University<br><br>🚀 Python
 
 ### Connect wiht Me : 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokulraja84)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gokul._raja._) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_iamGokulRaja_) 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://gokulraja.hashnode.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokulakannan45)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smart_gokul_45) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_gokul45_) 
+[Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 
 ### Random Dev Quote 🧑‍💻
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
