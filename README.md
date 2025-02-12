@@ -19,7 +19,7 @@ Hey, I'm Gokul !<br><br> 🎓 CSE Graduate from Mailam Engineering College<br><b
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokulakannan45)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smart_gokul_45) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_gokul45_) 
-[Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 
 ### Random Dev Quote 🧑‍💻
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
