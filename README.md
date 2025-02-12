@@ -1,6 +1,6 @@
 Hey, I'm Gokul !<br><br> 🎓 CSE Graduate from Mailam Engineering College<br><br>🚀 Python / Java Programmer | SQL Developer | Machine Learning enthusiast | JavaScript Dev | Data Analyzer<br><br>📍 Right now, I'm focusing on Learning Java and expanding my knowledge in the exciting fields of AI, Deep Learning, Cloud Computing.<br><br>📈 Working on Myself to be Full-Stack Dev / Machine Learning Engineer / Data Scientist !<br><br>🔍 I'm actively seeking opportunities to contribute to open-source projects and collaborate with fellow developers.<br><br>To reach me : Mail - gokulakannanmeccse@gmail.com
 
- <img align="center" alt="GIF" src="https://github.com/Gokul-45/Gokul-45/blob/main/dev%20code.gif?raw=true" width="300" height="300" />
+ <img align="center" alt="GIF" src="https://github.com/Gokul-Raja84/Gokul-Raja84/blob/main/dev%20code.gif?raw=true" width="300" height="300" />
 
 
 
